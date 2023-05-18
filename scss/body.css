@@ -1,0 +1,10 @@
+/*--body--*/
+body {
+  background-image: url("./Images/fondo-textura-lisa-gris.jpg");
+  display: grid;
+  display: block;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  z-index: -1;
+  justify-content: center;
+  margin: auto;
+}/*# sourceMappingURL=body.css.map */
